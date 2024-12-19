@@ -46,41 +46,41 @@
                     svg_icon.setAttribute("width", "23");
                     svg_icon.setAttribute("height", "23");
 
-					const path_1 = document.createElementNS("http://www.w3.org/2000/svg", "path");
-					path_1.setAttribute("d", "M13 38H41V16L30 4H13V38Z");
-					path_1.setAttribute("stroke", "#777C81");
-					path_1.setAttribute("stroke-width", "3");
-					path_1.setAttribute("stroke-linecap", "round");
-					path_1.setAttribute("stroke-linejoin", "round");
-					svg_icon.appendChild(path_1);
+		    const path_1 = document.createElementNS("http://www.w3.org/2000/svg", "path");
+		    path_1.setAttribute("d", "M13 38H41V16L30 4H13V38Z");
+		    path_1.setAttribute("stroke", "#777C81");
+		    path_1.setAttribute("stroke-width", "3");
+		    path_1.setAttribute("stroke-linecap", "round");
+		    path_1.setAttribute("stroke-linejoin", "round");
+		    svg_icon.appendChild(path_1);
 
-					const path_2 = document.createElementNS("http://www.w3.org/2000/svg", "path");
-					path_2.setAttribute("d", "M30 4V16H41");
-					path_2.setAttribute("stroke", "#777C81");
-					path_2.setAttribute("stroke-width", "3");
-					path_2.setAttribute("stroke-linecap", "round");
-					path_2.setAttribute("stroke-linejoin", "round");
-					svg_icon.appendChild(path_2);
+		    const path_2 = document.createElementNS("http://www.w3.org/2000/svg", "path");
+		    path_2.setAttribute("d", "M30 4V16H41");
+		    path_2.setAttribute("stroke", "#777C81");
+		    path_2.setAttribute("stroke-width", "3");
+		    path_2.setAttribute("stroke-linecap", "round");
+		    path_2.setAttribute("stroke-linejoin", "round");
+		    svg_icon.appendChild(path_2);
 
-					const path_3 = document.createElementNS("http://www.w3.org/2000/svg", "path");
-					path_3.setAttribute("d", "M7 20V44H28");
-					path_3.setAttribute("stroke", "#777C81");
-					path_3.setAttribute("stroke-width", "3");
-					path_3.setAttribute("stroke-linecap", "round");
-					path_3.setAttribute("stroke-linejoin", "round");
-					svg_icon.appendChild(path_3);
+		    const path_3 = document.createElementNS("http://www.w3.org/2000/svg", "path");
+		    path_3.setAttribute("d", "M7 20V44H28");
+		    path_3.setAttribute("stroke", "#777C81");
+		    path_3.setAttribute("stroke-width", "3");
+		    path_3.setAttribute("stroke-linecap", "round");
+		    path_3.setAttribute("stroke-linejoin", "round");
+		    svg_icon.appendChild(path_3);
 
-					const path_4 = document.createElementNS("http://www.w3.org/2000/svg", "path");
-					path_4.setAttribute("d", "M19 20H23");
-					path_4.setAttribute("stroke", "#777C81");
-					path_4.setAttribute("stroke-width", "3");
-					path_4.setAttribute("stroke-linecap", "round");
-					svg_icon.appendChild(path_4);
+		    const path_4 = document.createElementNS("http://www.w3.org/2000/svg", "path");
+		    path_4.setAttribute("d", "M19 20H23");
+		    path_4.setAttribute("stroke", "#777C81");
+		    path_4.setAttribute("stroke-width", "3");
+		    path_4.setAttribute("stroke-linecap", "round");
+		    svg_icon.appendChild(path_4);
 
-					const path_5 = document.createElementNS("http://www.w3.org/2000/svg", "path");
-					path_5.setAttribute("d", "M19 28H31");
-					path_5.setAttribute("stroke", "#777C81");
-					path_5.setAttribute("stroke-width", "3");
+		    const path_5 = document.createElementNS("http://www.w3.org/2000/svg", "path");
+		    path_5.setAttribute("d", "M19 28H31");
+		    path_5.setAttribute("stroke", "#777C81");
+		    path_5.setAttribute("stroke-width", "3");
                     path_5.setAttribute("stroke-linecap", "round");
                     svg_icon.appendChild(path_5);
 
